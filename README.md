@@ -70,6 +70,7 @@ Opt for a balanced bowling attack that includes both wicket-takers (low bowling 
 
 By leveraging these batting and bowling statistics, you can construct a cricket team that is not only statistically strong but also strategically equipped to excel in various match situations. A well-balanced team with the right mix of aggressive and stable batsmen, along with a potent bowling attack, can pave the way for success in the world of cricket.
 
-![Uploading image.png…]()
+![image](https://github.com/harpalsinhjhala13/Cricket-Analysis/assets/141703984/f9d5999d-46e1-40d6-83b7-2cdb44a3c69b)
+
 
 In conclusion, this project was an epic journey that showcased the immense potential of data in the realm of sports. It was a harmonious fusion of technology, analytics, and sportsmanship, a beacon illuminating the path to a future where data-driven decisions are the driving force behind every sporting triumph.
