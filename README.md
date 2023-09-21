@@ -1,4 +1,6 @@
 # Cricket-Analysis
+**DATA DRIVEN DECISON MAKING can be used in any field, one such example is Cricket**
+
 Select Your World Cup Team 2023 based on DATA driven metrics ! Here is the Link: https://rb.gy/2y5ag
 
 ![image](https://github.com/harpalsinhjhala13/Cricket-Analysis/assets/141703984/af5f50b9-7408-4d9e-9070-9b4d529abba1)
